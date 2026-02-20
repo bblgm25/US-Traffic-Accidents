@@ -129,8 +129,8 @@ This project demonstrates how statistical analysis and interactive visualization
 ---
 
 ## Repository Contents
-- US_Traffic_Accidents_Project.ipynb (data cleaning, feature engineering, statistical analysis and recommendations)
-- README.md (Project documentation and dashboard link)
+- US_Traffic_Accidents_Project.ipynb with dashboard link (data cleaning, feature engineering, statistical analysis and recommendations)
+- README.md 
 
 ## Author
 **Gail Batchelor**
